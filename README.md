@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zitu Hossain</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<p align="center">I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 
 - 🌱 I’m currently learning **Next Js**
 
